@@ -1,10 +1,3 @@
-/*******************************************************************************
-Jackson Terning
-CISP 360: DVCA Room #21 2:45-4:05pm on Mon. & Wed.
-*******************************************************************************/
-//Program file name: MonkeyBusiness.cpp
-//Program description: Tracks the feeding of 3 monkeys over a week
-
 #include <iostream>
 #include <limits>
 #include <string>
